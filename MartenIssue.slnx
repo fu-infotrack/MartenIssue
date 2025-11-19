@@ -1,8 +1,0 @@
-<Solution>
-  <Folder Name="/Solution Items/">
-    <File Path="README.md" />
-  </Folder>
-  <Project Path="MartenIssue.AppHost/MartenIssue.AppHost.csproj" />
-  <Project Path="MartenIssue.ServiceDefaults/MartenIssue.ServiceDefaults.csproj" />
-  <Project Path="MartenIssue/MartenIssue.csproj" />
-</Solution>
